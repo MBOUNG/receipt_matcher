@@ -1,0 +1,1602 @@
+[
+    {
+        "Fichier": "1000-receipt.jpg",
+        "Informations": {
+            "date": "2016-05-26",
+            "nom_commerce": "Green Field",
+            "montant": "56.58"
+        }
+    },
+    {
+        "Fichier": "1001-receipt.jpg",
+        "Informations": {
+            "date": "2015-04-25",
+            "nom_commerce": "Grand Lux Cafe",
+            "montant": "69.25"
+        }
+    },
+    {
+        "Fichier": "1002-receipt.jpg",
+        "Informations": {
+            "date": "2016-09-01",
+            "nom_commerce": "Taco Bell",
+            "montant": "7.61"
+        }
+    },
+    {
+        "Fichier": "1003-receipt.jpg",
+        "Informations": {
+            "date": "2017-04-20",
+            "nom_commerce": "El Gran Mar de Plata",
+            "montant": "5.35"
+        }
+    },
+    {
+        "Fichier": "1004-receipt.jpg",
+        "Informations": {
+            "date": "2019-05-18",
+            "nom_commerce": "Golden Bowl Teriyaki",
+            "montant": "15.03"
+        }
+    },
+    {
+        "Fichier": "1005-receipt.jpg",
+        "Informations": {
+            "date": "2017-08-15",
+            "nom_commerce": "Saska's",
+            "montant": "179.94"
+        }
+    },
+    {
+        "Fichier": "1006-receipt.jpg",
+        "Informations": {
+            "date": "2023-03-08",
+            "nom_commerce": "Akira",
+            "montant": "57.40"
+        }
+    },
+    {
+        "Fichier": "1007-receipt.jpg",
+        "Informations": {
+            "date": "2018-11-05",
+            "nom_commerce": "Katana Sushi",
+            "montant": "143.71"
+        }
+    },
+    {
+        "Fichier": "1008-receipt.jpg",
+        "Informations": {
+            "date": "Non sp\u00e9cifi\u00e9",
+            "nom_commerce": "Dona Mercedes Restaurant",
+            "montant": "24.47"
+        }
+    },
+    {
+        "Fichier": "1009-receipt.jpg",
+        "Informations": {
+            "date": "2019-09-08",
+            "nom_commerce": "Bella Pasta",
+            "montant": "30.16"
+        }
+    },
+    {
+        "Fichier": "1010-receipt.jpg",
+        "Informations": {
+            "date": "2018-07-21",
+            "nom_commerce": "Friendly Red's of Windham",
+            "montant": "77.83"
+        }
+    },
+    {
+        "Fichier": "1011-receipt.jpg",
+        "Informations": {
+            "date": "2023-06-26",
+            "nom_commerce": "Quick 73",
+            "montant": "64.43"
+        }
+    },
+    {
+        "Fichier": "1012-receipt.jpg",
+        "Informations": {
+            "date": "2019-04-01",
+            "nom_commerce": "HP Pho Ga",
+            "montant": "33.26"
+        }
+    },
+    {
+        "Fichier": "1013-receipt.jpg",
+        "Informations": {
+            "date": "non sp\u00e9cifi\u00e9",
+            "nom_commerce": "ALBETOS MEXICAN FOOD",
+            "montant": "9.58"
+        }
+    },
+    {
+        "Fichier": "1014-receipt.jpg",
+        "Informations": {
+            "date": "2019-02-23",
+            "nom_commerce": "Loaded Cafe",
+            "montant": "48.53"
+        }
+    },
+    {
+        "Fichier": "1015-receipt.jpg",
+        "Informations": {
+            "date": "2017-03-10",
+            "nom_commerce": "Hammocks Trading Company",
+            "montant": "50.29"
+        }
+    },
+    {
+        "Fichier": "1016-receipt.jpg",
+        "Informations": {
+            "date": "2019-02-02",
+            "nom_commerce": "Chef Wang",
+            "montant": "35.52"
+        }
+    },
+    {
+        "Fichier": "1017-receipt.jpg",
+        "Informations": {
+            "date": "2016-04-24",
+            "nom_commerce": "UMIX",
+            "montant": "11.04"
+        }
+    },
+    {
+        "Fichier": "1018-receipt.jpg",
+        "Informations": {
+            "date": "2012-04-27",
+            "nom_commerce": "IN-N-OUT BURGER SANTA CLARA",
+            "montant": "2.17"
+        }
+    },
+    {
+        "Fichier": "1019-receipt.jpg",
+        "Informations": {
+            "date": "2017-05-12",
+            "nom_commerce": "Arotto Pizzeria & Tavern",
+            "montant": "45.58"
+        }
+    },
+    {
+        "Fichier": "1020-receipt.jpg",
+        "Informations": {
+            "date": "2019-07-26",
+            "nom_commerce": "Deccan Spice",
+            "montant": "47.02"
+        }
+    },
+    {
+        "Fichier": "1021-receipt.jpg",
+        "Informations": {
+            "date": "2018-07-13",
+            "nom_commerce": "HAWWI ETHIOPIAN RESTAURANT",
+            "montant": "69.76"
+        }
+    },
+    {
+        "Fichier": "1022-receipt.jpg",
+        "Informations": {
+            "date": "2018-10-29",
+            "nom_commerce": "Moonstar Restaurant",
+            "montant": "37.37"
+        }
+    },
+    {
+        "Fichier": "1023-receipt.jpg",
+        "Informations": {
+            "date": "2017-06-16",
+            "nom_commerce": "Thai Gusto Restaurant",
+            "montant": "30.15"
+        }
+    },
+    {
+        "Fichier": "1024-receipt.jpg",
+        "Informations": {
+            "date": "2015-06-06",
+            "nom_commerce": "New Asia Buffet",
+            "montant": "33.92"
+        }
+    },
+    {
+        "Fichier": "1025-receipt.jpg",
+        "Informations": {
+            "date": "2013-07-07",
+            "nom_commerce": "McDonald's",
+            "montant": "7.27"
+        }
+    },
+    {
+        "Fichier": "1026-receipt.jpg",
+        "Informations": {
+            "date": "2018-07-22",
+            "nom_commerce": "Chris's Hamburgers",
+            "montant": "51.82"
+        }
+    },
+    {
+        "Fichier": "1028-receipt.jpg",
+        "Informations": {
+            "date": "2015-02-09",
+            "nom_commerce": "DOUGLAS BURGERS",
+            "montant": "34.21"
+        }
+    },
+    {
+        "Fichier": "1029-receipt.jpg",
+        "Informations": {
+            "date": "2017-05-09",
+            "nom_commerce": "RINCON MEXICANO",
+            "montant": "30.98"
+        }
+    },
+    {
+        "Fichier": "1030-receipt.jpg",
+        "Informations": {
+            "date": "2017-12-08",
+            "nom_commerce": "Villa D'Este Restaurant",
+            "montant": "94.78"
+        }
+    },
+    {
+        "Fichier": "1031-receipt.jpg",
+        "Informations": {
+            "date": "2019-01-12",
+            "nom_commerce": "Laurel Tavern Hermosa Beach",
+            "montant": "44.35"
+        }
+    },
+    {
+        "Fichier": "1033-receipt.jpg",
+        "Informations": {
+            "date": "2019-05-18",
+            "nom_commerce": "Uncle Julio's",
+            "montant": "46.73"
+        }
+    },
+    {
+        "Fichier": "1034-receipt.jpg",
+        "Informations": {
+            "date": "2015-08-02",
+            "nom_commerce": "la Source",
+            "montant": "17.00"
+        }
+    },
+    {
+        "Fichier": "1035-receipt.jpg",
+        "Informations": {
+            "date": "2017-08-13",
+            "nom_commerce": "Argonaut Diner",
+            "montant": "26.38"
+        }
+    },
+    {
+        "Fichier": "1036-receipt.jpg",
+        "Informations": {
+            "date": "2017-11-18",
+            "nom_commerce": "Pappadeaux Seafood Kitchen",
+            "montant": "52.76"
+        }
+    },
+    {
+        "Fichier": "1037-receipt.jpg",
+        "Informations": {
+            "date": "2013-03-16",
+            "nom_commerce": "Panda Express",
+            "montant": "164.89"
+        }
+    },
+    {
+        "Fichier": "1038-receipt.jpg",
+        "Informations": {
+            "date": "2018-09-07",
+            "nom_commerce": "Yogurtland",
+            "montant": "17.80"
+        }
+    },
+    {
+        "Fichier": "1040-receipt.jpg",
+        "Informations": {
+            "date": "2019-04-19",
+            "nom_commerce": "SUKHOTHAI SUSHI + ASIAN FUSION",
+            "montant": "28.04"
+        }
+    },
+    {
+        "Fichier": "1041-receipt.jpg",
+        "Informations": {
+            "date": "2015-08-02",
+            "nom_commerce": "la Source",
+            "montant": "17.00"
+        }
+    },
+    {
+        "Fichier": "1042-receipt.jpg",
+        "Informations": {
+            "date": "2019-02-11",
+            "nom_commerce": "FAIRVIEW",
+            "montant": "55.39"
+        }
+    },
+    {
+        "Fichier": "1043-receipt.jpg",
+        "Informations": {
+            "date": "2019-06-23",
+            "nom_commerce": "BK SOUL FOOD & CATERING",
+            "montant": "26.67"
+        }
+    },
+    {
+        "Fichier": "1044-receipt.jpg",
+        "Informations": {
+            "date": "21-05-19",
+            "nom_commerce": "CHURCH'S",
+            "montant": "9.59"
+        }
+    },
+    {
+        "Fichier": "1045-receipt.jpg",
+        "Informations": {
+            "date": "2018-06-24",
+            "nom_commerce": "Yum's Restaurant",
+            "montant": "22.03"
+        }
+    },
+    {
+        "Fichier": "1046-receipt.jpg",
+        "Informations": {
+            "date": "2019-03-17",
+            "nom_commerce": "Araxi Burger Aventura",
+            "montant": "38.86"
+        }
+    },
+    {
+        "Fichier": "1047-receipt.jpg",
+        "Informations": {
+            "date": "2017-09-23",
+            "nom_commerce": "730 Tavern Kitchen & Patio",
+            "montant": "85.07"
+        }
+    },
+    {
+        "Fichier": "1048-receipt.jpg",
+        "Informations": {
+            "date": "2018-11-01",
+            "nom_commerce": "Daily Grill",
+            "montant": "91.45"
+        }
+    },
+    {
+        "Fichier": "1049-receipt.jpg",
+        "Informations": {
+            "date": "2019-07-18",
+            "nom_commerce": "KICKIN KAJUN KAPOLEI",
+            "montant": "77.49"
+        }
+    },
+    {
+        "Fichier": "1050-receipt.jpg",
+        "Informations": {
+            "date": "2017-09-08",
+            "nom_commerce": "Hollywood Cafe & Sports Bar",
+            "montant": "26.96"
+        }
+    },
+    {
+        "Fichier": "1051-receipt.jpg",
+        "Informations": {
+            "date": "2016-04-10",
+            "nom_commerce": "General Poor's Tavern",
+            "montant": "10.70"
+        }
+    },
+    {
+        "Fichier": "1052-receipt.jpg",
+        "Informations": {
+            "date": "2016-05-24",
+            "nom_commerce": "Nancy's Restaurant",
+            "montant": "94.18"
+        }
+    },
+    {
+        "Fichier": "1054-receipt.jpg",
+        "Informations": {
+            "date": "2018-01-25",
+            "nom_commerce": "Big Jo's",
+            "montant": "56.50"
+        }
+    },
+    {
+        "Fichier": "1055-receipt.jpg",
+        "Informations": {
+            "date": "2023-10-04",
+            "nom_commerce": "Wings & Things",
+            "montant": "30.58"
+        }
+    },
+    {
+        "Fichier": "1056-receipt.jpg",
+        "Informations": {
+            "date": "2019-07-30",
+            "nom_commerce": "Zoca Restaurant",
+            "montant": "152.00"
+        }
+    },
+    {
+        "Fichier": "1057-receipt.jpg",
+        "Informations": {
+            "date": "2019-01-24",
+            "nom_commerce": "Caf\u00e9 Parisien Larchmont LLC",
+            "montant": "9.58"
+        }
+    },
+    {
+        "Fichier": "1058-receipt.jpg",
+        "Informations": {
+            "date": "2017-12-28",
+            "nom_commerce": "Caldera Brewery & Restaurant",
+            "montant": "37.60"
+        }
+    },
+    {
+        "Fichier": "1059-receipt.jpg",
+        "Informations": {
+            "date": "2017-06-10",
+            "nom_commerce": "Landfall Restaurant",
+            "montant": "7.55"
+        }
+    },
+    {
+        "Fichier": "1060-receipt.jpg",
+        "Informations": {
+            "date": "2017-12-17",
+            "nom_commerce": "1660 India Street",
+            "montant": "83.50"
+        }
+    },
+    {
+        "Fichier": "1061-receipt.jpg",
+        "Informations": {
+            "date": "2018-09-15",
+            "nom_commerce": "Chili's Grill & Bar",
+            "montant": "26.37"
+        }
+    },
+    {
+        "Fichier": "1062-receipt.jpg",
+        "Informations": {
+            "date": "2017-09-07",
+            "nom_commerce": "Nationwide's",
+            "montant": "142.01"
+        }
+    },
+    {
+        "Fichier": "1063-receipt.jpg",
+        "Informations": {
+            "date": "2016-07-10",
+            "nom_commerce": "Primo Family Restaurant",
+            "montant": "80.00"
+        }
+    },
+    {
+        "Fichier": "1064-receipt.jpg",
+        "Informations": {
+            "date": "2013-06-10",
+            "nom_commerce": "IN-N-OUT BURGER ESCONDIDO",
+            "montant": "19.44"
+        }
+    },
+    {
+        "Fichier": "1065-receipt.jpg",
+        "Informations": {
+            "date": "2018-01-23",
+            "nom_commerce": "Taco Maria",
+            "montant": "45.79"
+        }
+    },
+    {
+        "Fichier": "1066-receipt.jpg",
+        "Informations": {
+            "date": "2019-07-14",
+            "nom_commerce": "Ristorante Bellagio",
+            "montant": "82.00"
+        }
+    },
+    {
+        "Fichier": "1067-receipt.jpg",
+        "Informations": {
+            "date": "2023-10-05",
+            "nom_commerce": "Anjappar Chettinad Artesia",
+            "montant": "40.30"
+        }
+    },
+    {
+        "Fichier": "1068-receipt.jpg",
+        "Informations": {
+            "date": "2016-04-10",
+            "nom_commerce": "Caf\u00e9 Eugene",
+            "montant": "42.90"
+        }
+    },
+    {
+        "Fichier": "1071-receipt.jpg",
+        "Informations": {
+            "date": "2017-02-18",
+            "nom_commerce": "Trinity Restaurant",
+            "montant": "75.50"
+        }
+    },
+    {
+        "Fichier": "1072-receipt.jpg",
+        "Informations": {
+            "date": "2013-06-01",
+            "nom_commerce": "OHANA HAWAIIAN BBQ",
+            "montant": "21.69"
+        }
+    },
+    {
+        "Fichier": "1073-receipt.jpg",
+        "Informations": {
+            "date": "2019-01-15",
+            "nom_commerce": "5 Fair Oaks Ave",
+            "montant": "13.22"
+        }
+    },
+    {
+        "Fichier": "1075-receipt.jpg",
+        "Informations": {
+            "date": "2014-05-22",
+            "nom_commerce": "SmokeBoxBBQ",
+            "montant": "14.36"
+        }
+    },
+    {
+        "Fichier": "1077-receipt.jpg",
+        "Informations": {
+            "date": "2019-03-24",
+            "nom_commerce": "NAANCHING",
+            "montant": "69.79"
+        }
+    },
+    {
+        "Fichier": "1078-receipt.jpg",
+        "Informations": {
+            "date": "2019-02-19",
+            "nom_commerce": "Tay Ho Oakland",
+            "montant": "14.18"
+        }
+    },
+    {
+        "Fichier": "1079-receipt.jpg",
+        "Informations": {
+            "date": "2018-07-02",
+            "nom_commerce": "Falmouth Raw Bar",
+            "montant": "235.19"
+        }
+    },
+    {
+        "Fichier": "1080-receipt.jpg",
+        "Informations": {
+            "date": "2019-06-29",
+            "nom_commerce": "Newark Buffet",
+            "montant": "92.22"
+        }
+    },
+    {
+        "Fichier": "1082-receipt.jpg",
+        "Informations": {
+            "date": "2019-08-08",
+            "nom_commerce": "Surati Farsan Mart",
+            "montant": "6.56"
+        }
+    },
+    {
+        "Fichier": "1083-receipt.jpg",
+        "Informations": {
+            "date": "2017-03-17",
+            "nom_commerce": "King Taco",
+            "montant": "13.78"
+        }
+    },
+    {
+        "Fichier": "1084-receipt.jpg",
+        "Informations": {
+            "date": "2018-07-01",
+            "nom_commerce": "Trattoria Saporito",
+            "montant": "125.99"
+        }
+    },
+    {
+        "Fichier": "1086-receipt.jpg",
+        "Informations": {
+            "date": "2018-04-20",
+            "nom_commerce": "Calagero's",
+            "montant": "157.51"
+        }
+    },
+    {
+        "Fichier": "1087-receipt.jpg",
+        "Informations": {
+            "date": "2017/09/19",
+            "nom_commerce": "Mesones De Catedral",
+            "montant": "10.81"
+        }
+    },
+    {
+        "Fichier": "1088-receipt.jpg",
+        "Informations": {
+            "date": "2014-03-22",
+            "nom_commerce": "MOOYAH Burgers, Fries & Shakes",
+            "montant": "13.03"
+        }
+    },
+    {
+        "Fichier": "1089-receipt.jpg",
+        "Informations": {
+            "date": "2016-12-07",
+            "nom_commerce": "Firepoint Grill",
+            "montant": "142.93"
+        }
+    },
+    {
+        "Fichier": "1090-receipt.jpg",
+        "Informations": {
+            "date": "2017-05-25",
+            "nom_commerce": "Five Guys",
+            "montant": "32.66"
+        }
+    },
+    {
+        "Fichier": "1091-receipt.jpg",
+        "Informations": {
+            "date": "2018-05-11",
+            "nom_commerce": "City Taste",
+            "montant": "28.78"
+        }
+    },
+    {
+        "Fichier": "1092-receipt.jpg",
+        "Informations": {
+            "date": "2018-07-28",
+            "nom_commerce": "Kaiseki",
+            "montant": "43.30"
+        }
+    },
+    {
+        "Fichier": "1093-receipt.jpg",
+        "Informations": {
+            "date": "2018-06-24",
+            "nom_commerce": "POPEYE'S",
+            "montant": "15.00"
+        }
+    },
+    {
+        "Fichier": "1095-receipt.jpg",
+        "Informations": {
+            "date": "2023-03-10",
+            "nom_commerce": "Golden Coin",
+            "montant": "9.79"
+        }
+    },
+    {
+        "Fichier": "1096-receipt.jpg",
+        "Informations": {
+            "date": "2018-09-25",
+            "nom_commerce": "223 N. Citrus Ave",
+            "montant": "46.98"
+        }
+    },
+    {
+        "Fichier": "1097-receipt.jpg",
+        "Informations": {
+            "date": "2017-06-28",
+            "nom_commerce": "EL POLLO LOCO",
+            "montant": "13.12"
+        }
+    },
+    {
+        "Fichier": "1098-receipt.jpg",
+        "Informations": {
+            "date": "2018-03-18",
+            "nom_commerce": "Nick's Tuscan Grill",
+            "montant": "67.89"
+        }
+    },
+    {
+        "Fichier": "1099-receipt.jpg",
+        "Informations": {
+            "date": "2017-12-29",
+            "nom_commerce": "Restaurant Mexicain & Bar",
+            "montant": "64.52"
+        }
+    },
+    {
+        "Fichier": "1100-receipt.jpg",
+        "Informations": {
+            "date": "2018-10-03",
+            "nom_commerce": "McDonald's",
+            "montant": "26.15"
+        }
+    },
+    {
+        "Fichier": "1101-receipt.jpg",
+        "Informations": {
+            "date": "2018-11-04",
+            "nom_commerce": "KAZ RAMEN",
+            "montant": "14.06"
+        }
+    },
+    {
+        "Fichier": "1102-receipt.jpg",
+        "Informations": {
+            "date": "2016-04-15",
+            "nom_commerce": "OM Indian Food",
+            "montant": "16.24"
+        }
+    },
+    {
+        "Fichier": "1103-receipt.jpg",
+        "Informations": {
+            "date": "2017-12-29",
+            "nom_commerce": "Crisfield Seafood Restaurant",
+            "montant": "42.74"
+        }
+    },
+    {
+        "Fichier": "1105-receipt.jpg",
+        "Informations": {
+            "date": "2018-02-17",
+            "nom_commerce": "The Place 2 Be",
+            "montant": "22.87"
+        }
+    },
+    {
+        "Fichier": "1106-receipt.jpg",
+        "Informations": {
+            "date": "2017-06-13",
+            "nom_commerce": "Lan Sheng",
+            "montant": "75.15"
+        }
+    },
+    {
+        "Fichier": "1107-receipt.jpg",
+        "Informations": {
+            "date": "2017-07-16",
+            "nom_commerce": "Mikuni Japanese",
+            "montant": "144.28"
+        }
+    },
+    {
+        "Fichier": "1108-receipt.jpg",
+        "Informations": {
+            "date": "2018-01-28",
+            "nom_commerce": "Go Mongo BBQ",
+            "montant": "52.06"
+        }
+    },
+    {
+        "Fichier": "1109-receipt.jpg",
+        "Informations": {
+            "date": "2017-06-14",
+            "nom_commerce": "BreadFish Cafe",
+            "montant": "27.62"
+        }
+    },
+    {
+        "Fichier": "1110-receipt.jpg",
+        "Informations": {
+            "date": "2018-08-18",
+            "nom_commerce": "Chelokababi",
+            "montant": "160.07"
+        }
+    },
+    {
+        "Fichier": "1111-receipt.jpg",
+        "Informations": {
+            "date": "2019-03-12",
+            "nom_commerce": "Commander's Palace",
+            "montant": "55.95"
+        }
+    },
+    {
+        "Fichier": "1112-receipt.jpg",
+        "Informations": {
+            "date": "2018-01-27",
+            "nom_commerce": "Columbus Restaurant",
+            "montant": "184.47"
+        }
+    },
+    {
+        "Fichier": "1113-receipt.jpg",
+        "Informations": {
+            "date": "2018-06-02",
+            "nom_commerce": "Golden Panda Buffet",
+            "montant": "29.96"
+        }
+    },
+    {
+        "Fichier": "1114-receipt.jpg",
+        "Informations": {
+            "date": "2015-08-02",
+            "nom_commerce": "la Source",
+            "montant": "17.00"
+        }
+    },
+    {
+        "Fichier": "1115-receipt.jpg",
+        "Informations": {
+            "date": "2017-07-15",
+            "nom_commerce": "Rosebud on Rush",
+            "montant": "79.17"
+        }
+    },
+    {
+        "Fichier": "1116-receipt.jpg",
+        "Informations": {
+            "date": "2019-06-08",
+            "nom_commerce": "Villaggio Grille",
+            "montant": "34.12"
+        }
+    },
+    {
+        "Fichier": "1117-receipt.jpg",
+        "Informations": {
+            "date": "2019-02-22",
+            "nom_commerce": "KOBE JAPANESE STEAK",
+            "montant": "173.07"
+        }
+    },
+    {
+        "Fichier": "1118-receipt.jpg",
+        "Informations": {
+            "date": "2019-07-03",
+            "nom_commerce": "Wendy's Restaurant",
+            "montant": "4.99"
+        }
+    },
+    {
+        "Fichier": "1120-receipt.jpg",
+        "Informations": {
+            "date": "2018-10-20",
+            "nom_commerce": "RED & HOT II",
+            "montant": "23.46"
+        }
+    },
+    {
+        "Fichier": "1121-receipt.jpg",
+        "Informations": {
+            "date": "2017-09-10",
+            "nom_commerce": "Heart of Portugal Restaurant",
+            "montant": "71.58"
+        }
+    },
+    {
+        "Fichier": "1122-receipt.jpg",
+        "Informations": {
+            "date": "2023-10-11",
+            "nom_commerce": "El Meson Mexican Restaurant",
+            "montant": "47.70"
+        }
+    },
+    {
+        "Fichier": "1123-receipt.jpg",
+        "Informations": {
+            "date": "2019-08-23",
+            "nom_commerce": "El Gato Negro",
+            "montant": "21.76"
+        }
+    },
+    {
+        "Fichier": "1124-receipt.jpg",
+        "Informations": {
+            "date": "2018-12-28",
+            "nom_commerce": "Firefly American Bistro",
+            "montant": "83.64"
+        }
+    },
+    {
+        "Fichier": "1125-receipt.jpg",
+        "Informations": {
+            "date": "2019-03-19",
+            "nom_commerce": "CHATPATA RESTAURANT INC",
+            "montant": "19.10"
+        }
+    },
+    {
+        "Fichier": "1126-receipt.jpg",
+        "Informations": {
+            "date": "2015-06-02",
+            "nom_commerce": "Sage French Cafe & Wine Bar",
+            "montant": "39.18"
+        }
+    },
+    {
+        "Fichier": "1127-receipt.jpg",
+        "Informations": {
+            "date": "2018-10-25",
+            "nom_commerce": "PIZZA HUT",
+            "montant": "26.76"
+        }
+    },
+    {
+        "Fichier": "1128-receipt.jpg",
+        "Informations": {
+            "date": "2019-08-30",
+            "nom_commerce": "KALAVERAS",
+            "montant": "68.99"
+        }
+    },
+    {
+        "Fichier": "1129-receipt.jpg",
+        "Informations": {
+            "date": "2018-02-13",
+            "nom_commerce": "Hiro Japanese Restaurant",
+            "montant": "17.18"
+        }
+    },
+    {
+        "Fichier": "1130-receipt.jpg",
+        "Informations": {
+            "date": "2017-12-20",
+            "nom_commerce": "BOA",
+            "montant": "47.09"
+        }
+    },
+    {
+        "Fichier": "1131-receipt.jpg",
+        "Informations": {
+            "date": "2017-11-24",
+            "nom_commerce": "Chris's Hamburgers",
+            "montant": "28.31"
+        }
+    },
+    {
+        "Fichier": "1132-receipt.jpg",
+        "Informations": {
+            "date": "2017-04-27",
+            "nom_commerce": "VIA EMILIA 9",
+            "montant": "61.80"
+        }
+    },
+    {
+        "Fichier": "1133-receipt.jpg",
+        "Informations": {
+            "date": "2023-10-01",
+            "nom_commerce": "Moonstar Restaurant",
+            "montant": "146.57"
+        }
+    },
+    {
+        "Fichier": "1134-receipt.jpg",
+        "Informations": {
+            "date": "2016-07-08",
+            "nom_commerce": "KFC",
+            "montant": "21.73"
+        }
+    },
+    {
+        "Fichier": "1135-receipt.jpg",
+        "Informations": {
+            "date": "2018-01-30",
+            "nom_commerce": "E. BALDI",
+            "montant": "146.73"
+        }
+    },
+    {
+        "Fichier": "1136-receipt.jpg",
+        "Informations": {
+            "date": "2019-04-10",
+            "nom_commerce": "The Shawarma Factory",
+            "montant": "13.13"
+        }
+    },
+    {
+        "Fichier": "1137-receipt.jpg",
+        "Informations": {
+            "date": "2017-10-25",
+            "nom_commerce": "Maui Teriyaki",
+            "montant": "14.17"
+        }
+    },
+    {
+        "Fichier": "1138-receipt.jpg",
+        "Informations": {
+            "date": "2014-12-21",
+            "nom_commerce": "Casa Chan Restaurant",
+            "montant": "25.94"
+        }
+    },
+    {
+        "Fichier": "1139-receipt.jpg",
+        "Informations": {
+            "date": "2017-07-06",
+            "nom_commerce": "SS PARADISE",
+            "montant": "617.00"
+        }
+    },
+    {
+        "Fichier": "1140-receipt.jpg",
+        "Informations": {
+            "date": "03/12/2015",
+            "nom_commerce": "Shake Shack",
+            "montant": "25.47"
+        }
+    },
+    {
+        "Fichier": "1141-receipt.jpg",
+        "Informations": {
+            "date": "2023-03-07",
+            "nom_commerce": "Yauatcha",
+            "montant": "88.62"
+        }
+    },
+    {
+        "Fichier": "1143-receipt.jpg",
+        "Informations": {
+            "date": "2017-10-01",
+            "nom_commerce": "Arthur's",
+            "montant": "84.78"
+        }
+    },
+    {
+        "Fichier": "1145-receipt.jpg",
+        "Informations": {
+            "date": "2012-12-26",
+            "nom_commerce": "Miguel's Mexican",
+            "montant": "65.14"
+        }
+    },
+    {
+        "Fichier": "1146-receipt.jpg",
+        "Informations": {
+            "date": "2013-08-12",
+            "nom_commerce": "Rihanna's Caribbean Restaurant",
+            "montant": "13.26"
+        }
+    },
+    {
+        "Fichier": "1147-receipt.jpg",
+        "Informations": {
+            "date": "2016-11-24",
+            "nom_commerce": "New Delhi Indian Restaurant",
+            "montant": "13.00"
+        }
+    },
+    {
+        "Fichier": "1149-receipt.jpg",
+        "Informations": {
+            "date": "2015-08-30",
+            "nom_commerce": "Denny's Restaurant",
+            "montant": "5.29"
+        }
+    },
+    {
+        "Fichier": "1150-receipt.jpg",
+        "Informations": {
+            "date": "2014-06-10",
+            "nom_commerce": "HMS Host",
+            "montant": "80.45"
+        }
+    },
+    {
+        "Fichier": "1151-receipt.jpg",
+        "Informations": {
+            "date": "2019-04-10",
+            "nom_commerce": "Restaurant Collector's Choice",
+            "montant": "13.53"
+        }
+    },
+    {
+        "Fichier": "1152-receipt.jpg",
+        "Informations": {
+            "date": "2015-03-14",
+            "nom_commerce": "KALOOKI'S",
+            "montant": "62.70"
+        }
+    },
+    {
+        "Fichier": "1153-receipt.jpg",
+        "Informations": {
+            "date": "2014-10-21",
+            "nom_commerce": "Gordon Ramsay Steak",
+            "montant": "313.49"
+        }
+    },
+    {
+        "Fichier": "1155-receipt.jpg",
+        "Informations": {
+            "date": "2015-02-16",
+            "nom_commerce": "Heron Pierre White Steakhouse & Grill",
+            "montant": "129.75"
+        }
+    },
+    {
+        "Fichier": "1156-receipt.jpg",
+        "Informations": {
+            "date": "2019-03-11",
+            "nom_commerce": "IKEA",
+            "montant": "14.00"
+        }
+    },
+    {
+        "Fichier": "1157-receipt.jpg",
+        "Informations": {
+            "date": "2014-10-08",
+            "nom_commerce": "Russell's Restaurant",
+            "montant": "9.70"
+        }
+    },
+    {
+        "Fichier": "1159-receipt.jpg",
+        "Informations": {
+            "date": "2018-04-24",
+            "nom_commerce": "Taco Time - Kenmore",
+            "montant": "6.59"
+        }
+    },
+    {
+        "Fichier": "1160-receipt.jpg",
+        "Informations": {
+            "date": "2017-07-10",
+            "nom_commerce": "Angelo's Pizza Restaurant",
+            "montant": "33.34"
+        }
+    },
+    {
+        "Fichier": "1162-receipt.jpg",
+        "Informations": {
+            "date": "2016-10-06",
+            "nom_commerce": "Juniper & Ivy",
+            "montant": "333.72"
+        }
+    },
+    {
+        "Fichier": "1163-receipt.jpg",
+        "Informations": {
+            "date": "2017-03-05",
+            "nom_commerce": "BEN'S BAYSIDE",
+            "montant": "41.32"
+        }
+    },
+    {
+        "Fichier": "1164-receipt.jpg",
+        "Informations": {
+            "date": "2015-08-06",
+            "nom_commerce": "The Golden Spear Cafe",
+            "montant": "22.70"
+        }
+    },
+    {
+        "Fichier": "1165-receipt.jpg",
+        "Informations": {
+            "date": "2016-11-12",
+            "nom_commerce": "El Chico Mexican Restaurant",
+            "montant": "117.00"
+        }
+    },
+    {
+        "Fichier": "1166-receipt.jpg",
+        "Informations": {
+            "date": "2017-01-07",
+            "nom_commerce": "Pappadeaux Seafood Kitchen",
+            "montant": "42.16"
+        }
+    },
+    {
+        "Fichier": "1167-receipt.jpg",
+        "Informations": {
+            "date": "2019-07-21",
+            "nom_commerce": "Casa Rubia Cafe",
+            "montant": "33.75"
+        }
+    },
+    {
+        "Fichier": "1168-receipt.jpg",
+        "Informations": {
+            "date": "2017-09-27",
+            "nom_commerce": "CARL'S JR",
+            "montant": "7.61"
+        }
+    },
+    {
+        "Fichier": "1169-receipt.jpg",
+        "Informations": {
+            "date": "2015-08-22",
+            "nom_commerce": "Delmonico's Italian Steakhouse",
+            "montant": "46.39"
+        }
+    },
+    {
+        "Fichier": "1170-receipt.jpg",
+        "Informations": {
+            "date": "2016-07-15",
+            "nom_commerce": "Buca di Beppo",
+            "montant": "109.28"
+        }
+    },
+    {
+        "Fichier": "1171-receipt.jpg",
+        "Informations": {
+            "date": "2012-12-09",
+            "nom_commerce": "Pop Tates Korum Mall",
+            "montant": "523.00"
+        }
+    },
+    {
+        "Fichier": "1173-receipt.jpg",
+        "Informations": {
+            "date": "2017-08-24",
+            "nom_commerce": "Lalo's Mexican at Navy Pier",
+            "montant": "16.56"
+        }
+    },
+    {
+        "Fichier": "1174-receipt.jpg",
+        "Informations": {
+            "date": "2018-04-13",
+            "nom_commerce": "Ipanema Brazilian Steak House",
+            "montant": "55.38"
+        }
+    },
+    {
+        "Fichier": "1175-receipt.jpg",
+        "Informations": {
+            "date": "2015-07-03",
+            "nom_commerce": "Bar Louie Huntsville",
+            "montant": "7.56"
+        }
+    },
+    {
+        "Fichier": "1176-receipt.jpg",
+        "Informations": {
+            "date": "2017-06-05",
+            "nom_commerce": "HEDLEYS",
+            "montant": "41.45"
+        }
+    },
+    {
+        "Fichier": "1177-receipt.jpg",
+        "Informations": {
+            "date": "2018-06-24",
+            "nom_commerce": "El Charro Cafe Ventana",
+            "montant": "47.90"
+        }
+    },
+    {
+        "Fichier": "1178-receipt.jpg",
+        "Informations": {
+            "date": "2017-01-21",
+            "nom_commerce": "Gourdough's Public House",
+            "montant": "11.91"
+        }
+    },
+    {
+        "Fichier": "1179-receipt.jpg",
+        "Informations": {
+            "date": "2018-09-29",
+            "nom_commerce": "FourthStreetMill",
+            "montant": "54.20"
+        }
+    },
+    {
+        "Fichier": "1180-receipt.jpg",
+        "Informations": {
+            "date": "2014-08-30",
+            "nom_commerce": "Lizzy's",
+            "montant": "12.03"
+        }
+    },
+    {
+        "Fichier": "1181-receipt.jpg",
+        "Informations": {
+            "date": "2016-04-07",
+            "nom_commerce": "DEL FRISCO'S #8620",
+            "montant": "439.85"
+        }
+    },
+    {
+        "Fichier": "1182-receipt.jpg",
+        "Informations": {
+            "date": "2017-08-21",
+            "nom_commerce": "Finnigan's Way",
+            "montant": "50.80"
+        }
+    },
+    {
+        "Fichier": "1183-receipt.jpg",
+        "Informations": {
+            "date": "2019-05-19",
+            "nom_commerce": "JALISCO",
+            "montant": "10.00"
+        }
+    },
+    {
+        "Fichier": "1184-receipt.jpg",
+        "Informations": {
+            "date": "2013-03-22",
+            "nom_commerce": "DINING ROOM",
+            "montant": "193.35"
+        }
+    },
+    {
+        "Fichier": "1185-receipt.jpg",
+        "Informations": {
+            "date": "2016-02-12",
+            "nom_commerce": "JT's Diner",
+            "montant": "28.40"
+        }
+    },
+    {
+        "Fichier": "1187-receipt.jpg",
+        "Informations": {
+            "date": "2019-06-16",
+            "nom_commerce": "Spiral Diner & Bakery",
+            "montant": "50.38"
+        }
+    },
+    {
+        "Fichier": "1188-receipt.jpg",
+        "Informations": {
+            "date": "2016-12-03",
+            "nom_commerce": "New China",
+            "montant": "26.96"
+        }
+    },
+    {
+        "Fichier": "1189-receipt.jpg",
+        "Informations": {
+            "date": "2017-07-05",
+            "nom_commerce": "Miguel's Mexican Food",
+            "montant": "27.08"
+        }
+    },
+    {
+        "Fichier": "1190-receipt.jpg",
+        "Informations": {
+            "date": "2018-06-30",
+            "nom_commerce": "Bombay Grill House",
+            "montant": "154.00"
+        }
+    },
+    {
+        "Fichier": "1191-receipt.jpg",
+        "Informations": {
+            "date": "2019-05-19",
+            "nom_commerce": "MOD Pizza",
+            "montant": "29.59"
+        }
+    },
+    {
+        "Fichier": "1192-receipt.jpg",
+        "Informations": {
+            "date": "20120101",
+            "nom_commerce": "STANWAY'S",
+            "montant": "97.29"
+        }
+    },
+    {
+        "Fichier": "1193-receipt.jpg",
+        "Informations": {
+            "date": "2014-11-14",
+            "nom_commerce": "Marie Callender's Restaurant",
+            "montant": "19.19"
+        }
+    },
+    {
+        "Fichier": "1195-receipt.jpg",
+        "Informations": {
+            "date": "2018-06-10",
+            "nom_commerce": "AM1C1 Conyers",
+            "montant": "33.75"
+        }
+    },
+    {
+        "Fichier": "1196-receipt.jpg",
+        "Informations": {
+            "date": "2016-12-31",
+            "nom_commerce": "CHARLES",
+            "montant": "58.30"
+        }
+    },
+    {
+        "Fichier": "1198-receipt.jpg",
+        "Informations": {
+            "date": "2017-08-25",
+            "nom_commerce": "STK Miami Beach",
+            "montant": "154.78"
+        }
+    },
+    {
+        "Fichier": "1199-receipt.jpg",
+        "Informations": {
+            "date": "2012-06-21",
+            "nom_commerce": "Toscan",
+            "montant": "128.33"
+        }
+    },
+    {
+        "Fichier": "1027-receipt.jpg",
+        "Informations": {
+            "date": "2019-01-11",
+            "nom_commerce": "Longboards",
+            "montant": "44.31"
+        }
+    },
+    {
+        "Fichier": "1032-receipt.jpg",
+        "Informations": {
+            "date": "2017-03-19",
+            "nom_commerce": "WINGS & THINGS",
+            "montant": "9.50"
+        }
+    },
+    {
+        "Fichier": "1039-receipt.jpg",
+        "Informations": {
+            "date": "2016-12-19",
+            "nom_commerce": "CARL'S JR",
+            "montant": "13.05"
+        }
+    },
+    {
+        "Fichier": "1053-receipt.jpg",
+        "Informations": {
+            "date": "2014-06-14",
+            "nom_commerce": "Primo Family Restaurant",
+            "montant": "32.47"
+        }
+    },
+    {
+        "Fichier": "1069-receipt.jpg",
+        "Informations": {
+            "date": "2019-12-08",
+            "nom_commerce": "River Village Family Restaurant",
+            "montant": "10.90"
+        }
+    },
+    {
+        "Fichier": "1070-receipt.jpg",
+        "Informations": {
+            "date": "2019-06-28",
+            "nom_commerce": "Mr. M's Hot Wings & Things Inc",
+            "montant": "10.95"
+        }
+    },
+    {
+        "Fichier": "1074-receipt.jpg",
+        "Informations": {
+            "date": "2019-02-24",
+            "nom_commerce": "Lin Buffet",
+            "montant": "33.73"
+        }
+    },
+    {
+        "Fichier": "1076-receipt.jpg",
+        "Informations": {
+            "date": "2018-07-21",
+            "nom_commerce": "Paradise Restaurant",
+            "montant": "25.78"
+        }
+    },
+    {
+        "Fichier": "1081-receipt.jpg",
+        "Informations": {
+            "date": "2019-03-02",
+            "nom_commerce": "BRASAS RESTAURANT",
+            "montant": "9.97"
+        }
+    },
+    {
+        "Fichier": "1085-receipt.jpg",
+        "Informations": {
+            "date": "2017-05-04",
+            "nom_commerce": "Pita Pita - Lombard",
+            "montant": "228.92"
+        }
+    },
+    {
+        "Fichier": "1094-receipt.jpg",
+        "Informations": {
+            "date": "2018-12-29",
+            "nom_commerce": "Pokeatery CV",
+            "montant": "16.23"
+        }
+    },
+    {
+        "Fichier": "1104-receipt.jpg",
+        "Informations": {
+            "date": "2013-11-06",
+            "nom_commerce": "Don Juan Mexican Restaurant",
+            "montant": "56.38"
+        }
+    },
+    {
+        "Fichier": "1119-receipt.jpg",
+        "Informations": {
+            "date": "2017-12-22",
+            "nom_commerce": "Panda Express",
+            "montant": "27.44"
+        }
+    },
+    {
+        "Fichier": "1142-receipt.jpg",
+        "Informations": {
+            "date": "2012-01-13",
+            "nom_commerce": "Blue Bear Tavern",
+            "montant": "83.44"
+        }
+    },
+    {
+        "Fichier": "1144-receipt.jpg",
+        "Informations": {
+            "date": "2018-08-03",
+            "nom_commerce": "CHLOE81",
+            "montant": "46.40"
+        }
+    },
+    {
+        "Fichier": "1158-receipt.jpg",
+        "Informations": {
+            "date": "2018-06-29",
+            "nom_commerce": "MITASU JAPANESE RESTAURANT Sdn Bhd",
+            "montant": "780.45"
+        }
+    },
+    {
+        "Fichier": "1161-receipt.jpg",
+        "Informations": {
+            "date": "2018-11-10",
+            "nom_commerce": "Restaurant Dominicain",
+            "montant": "53.23"
+        }
+    },
+    {
+        "Fichier": "1186-receipt.jpg",
+        "Informations": {
+            "date": "2019-03-03",
+            "nom_commerce": "Primo Family Restaurant",
+            "montant": "52.47"
+        }
+    },
+    {
+        "Fichier": "1197-receipt.jpg",
+        "Informations": {
+            "date": "2018-08-28",
+            "nom_commerce": "Bar Ristorante",
+            "montant": "34.00"
+        }
+    },
+    {
+        "Fichier": "1148-receipt.jpg",
+        "Informations": {
+            "date": "2018-07-15",
+            "nom_commerce": "Sonic America's Drive-In",
+            "montant": "13.07"
+        }
+    },
+    {
+        "Fichier": "1154-receipt.jpg",
+        "Informations": {
+            "date": "2018-09-06",
+            "nom_commerce": "Via Mar Restaurant",
+            "montant": "73.24"
+        }
+    },
+    {
+        "Fichier": "1172-receipt.jpg",
+        "Informations": {
+            "date": "2017-12-22",
+            "nom_commerce": "El Valor Mexican Restaurant",
+            "montant": "17.75"
+        }
+    },
+    {
+        "Fichier": "1194-receipt.jpg",
+        "Informations": {
+            "date": "2018-09-19",
+            "nom_commerce": "Bar Rua",
+            "montant": "65.10"
+        }
+    }
+]

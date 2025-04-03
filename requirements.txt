@@ -1,0 +1,4 @@
+python-dotenv
+mistralai
+pybase64
+requests
