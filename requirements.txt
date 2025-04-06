@@ -1,7 +1,14 @@
-python-dotenv
-mistralai
-pybase64
-requests
-streamlit
-scikit-learn
-sentence-transformers
+# Fichier listant les dépendances Python du projet (v8)
+
+streamlit             # Framework web
+pandas                # Manipulation données (CSV)
+python-dotenv         # Gestion variables d'environnement (.env)
+pillow                # Manipulation images (pour OCR)
+mistralai==0.4.2      # Client API Mistral (VERSION FIXÉE pour compatibilité OCR Pixtral)
+sentence-transformers # Pour embeddings texte (matching sémantique)
+scikit-learn          # Pour similarité cosinus (matching sémantique)
+numpy                 # Calcul numérique
+requests              # Requêtes HTTP (utile pour APIs)
+httpx                 # Client HTTP (utilisé par mistralai)
+# groq                # Non utilisé
+# easyocr             # Non utilisé (remplacé par Pixtral)
