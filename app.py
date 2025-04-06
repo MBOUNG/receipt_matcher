@@ -49,16 +49,16 @@ st.title("🧾 Matching Automatique Factures / Relevé Bancaire")
 st.markdown("Chargez votre relevé bancaire (CSV) et vos factures (images) pour lancer le processus.")
 
 # --- Récupération et Vérification des clés API ---
-MISTRAL_API_KEY = os.getenv("MISTRAL_API_KEY") # Requis pour Pixtral OCR
+MISTRAL_API_KEY = os.getenv("MISTRAL_KEY") # Requis pour Pixtral OCR
 
 # --- Fonctions de Cache pour Clients/Modèles ---
 @st.cache_resource
 def get_mistral_client_ocr():
     """Initialise et retourne le client Mistral (pour OCR)."""
     # Utilise MISTRAL_API_KEY
-    api_key = os.getenv("MISTRAL_API_KEY")
+    api_key = os.getenv("MISTRAL_KEY")
     if not api_key:
-        st.error("Clé API Mistral (MISTRAL_API_KEY) non trouvée dans .env.")
+        st.error("Clé API Mistral (MISTRAL_KEY) non trouvée dans .env.")
         return None
     print("--- Initialisation du client Mistral (pour OCR) ---")
     try:
@@ -87,30 +87,30 @@ mistral_client_ocr = get_mistral_client_ocr()
 sentence_model = get_sentence_transformer_model()
 
 # Afficher le statut
-with st.expander("🔐 Statut des Services Externes", expanded=False):
+with st.expander(" Statut des Services Externes", expanded=False):
     if mistral_client_ocr: st.success("✅ Client Mistral (OCR Pixtral) prêt.")
-    else: st.warning("⚠️ Client Mistral (OCR Pixtral) non disponible.")
+    else: st.warning(" Client Mistral (OCR Pixtral) non disponible.")
     if sentence_model: st.success("✅ Modèle Sentence Transformer (Matching) prêt.")
-    else: st.warning("⚠️ Modèle Sentence Transformer (Matching) non disponible.")
+    else: st.warning(" Modèle Sentence Transformer (Matching) non disponible.")
 
 
 # --- Upload des fichiers ---
-st.header("1. 🔄 Chargement des Fichiers")
+st.header("1.  Chargement des Fichiers")
 col1, col2 = st.columns(2)
 with col1:
-    uploaded_statement = st.file_uploader("**📄 Relevé Bancaire (CSV)**", type=["csv"], help="charger votre relevé bancaire.")
+    uploaded_statement = st.file_uploader("** Relevé Bancaire (CSV)**", type=["csv"], help="charger votre relevé bancaire.")
 with col2:
-    uploaded_invoices = st.file_uploader("**🖼️ Factures (images)**", type=["jpg", "jpeg", "png"], accept_multiple_files=True, help="Chargez une ou plusieurs factures.")
+    uploaded_invoices = st.file_uploader("** Factures (images)**", type=["jpg", "jpeg", "png"], accept_multiple_files=True, help="Chargez une ou plusieurs factures.")
 
 # --- Préparation des données ---
 st.divider()
-st.header("2. ⚙️ Préparation des Données")
+st.header("2.  Préparation des Données")
 statement_df = None
 invoice_files_list = []
 
 # Analyse du relevé (utilise parser_py_v3)
 if uploaded_statement is not None:
-    st.subheader("📑 Aperçu du Relevé Bancaire")
+    st.subheader(" Aperçu du Relevé Bancaire")
     with st.spinner("Lecture et nettoyage du fichier CSV..."):
         if 'parse_bank_statement' in globals():
              statement_df = parse_bank_statement(uploaded_statement)
@@ -123,7 +123,7 @@ if uploaded_statement is not None:
         # Afficher aussi les types pour vérifier la date
         # st.write(statement_df.dtypes)
         st.dataframe(statement_df.head(), use_container_width=True)
-        st.success(f"✅ {len(statement_df)} transactions prêtes.")
+        st.success(f" {len(statement_df)} transactions prêtes.")
     elif uploaded_statement:
          st.error("Le fichier CSV n'a pas pu être traité correctement.")
 
@@ -333,7 +333,7 @@ def filter_and_match_invoices(bank_row, invoices_data, model, date_delta_days=3,
 
 # --- Lancement du Matching ---
 st.divider()
-st.header("3. 🚀 Lancer le Matching")
+st.header("3.  Lancer le Matching")
 
 ready_to_match = (
     statement_df is not None and not statement_df.empty and
@@ -342,7 +342,7 @@ ready_to_match = (
     sentence_model is not None     # Vérifier modèle matching
 )
 
-if st.button("🔍 Démarrer le Matching", disabled=not ready_to_match, use_container_width=True):
+if st.button(" Démarrer le Matching", disabled=not ready_to_match, use_container_width=True):
     if ready_to_match:
         with st.spinner("Analyse OCR (Pixtral) & Matching (Filtre + Similarité)..."):
 
@@ -355,7 +355,7 @@ if st.button("🔍 Démarrer le Matching", disabled=not ready_to_match, use_cont
             pixtral_model_name = "pixtral-12b-2409" # Modèle spécifié dans rap.py
 
             for i, inv_file in enumerate(invoice_files_list):
-                status_text_ocr.text(f"🔎 OCR en cours : {inv_file.name} ({i+1}/{len(invoice_files_list)})")
+                status_text_ocr.text(f" OCR en cours : {inv_file.name} ({i+1}/{len(invoice_files_list)})")
                 try:
                     image_bytes = inv_file.getvalue()
                     image_media_type = inv_file.type
@@ -377,8 +377,8 @@ if st.button("🔍 Démarrer le Matching", disabled=not ready_to_match, use_cont
                      progress_bar_ocr.progress((i + 1) / len(invoice_files_list))
 
             status_text_ocr.text("Analyse OCR terminée.")
-            if ocr_errors > 0: st.warning(f"⚠️ {ocr_errors} facture(s) n'ont pas pu être analysée(s) correctement par l'OCR.")
-            st.success(f"✅ {len(all_invoice_data)} factures traitées par OCR.")
+            if ocr_errors > 0: st.warning(f" {ocr_errors} facture(s) n'ont pas pu être analysée(s) correctement par l'OCR.")
+            st.success(f" {len(all_invoice_data)} factures traitées par OCR.")
             # Afficher données extraites pour debug si besoin
             # with st.expander("Voir données OCR"): st.json(all_invoice_data)
 
