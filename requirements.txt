@@ -4,3 +4,4 @@ pybase64
 requests
 streamlit
 scikit-learn
+sentence-transformers
