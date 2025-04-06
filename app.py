@@ -56,7 +56,7 @@ MISTRAL_API_KEY = os.getenv("MISTRAL_KEY") # Requis pour Pixtral OCR
 def get_mistral_client_ocr():
     """Initialise et retourne le client Mistral (pour OCR)."""
     # Utilise MISTRAL_API_KEY
-    api_key = os.getenv("MISTRAL_API_KEY")
+    api_key = os.getenv("MISTRAL_KEY")
     if not api_key:
         st.error("Clé API Mistral (MISTRAL_API_KEY) non trouvée dans .env.")
         return None
