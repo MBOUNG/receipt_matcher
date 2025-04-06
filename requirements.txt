@@ -3,3 +3,4 @@ mistralai
 pybase64
 requests
 streamlit
+scikit-learn
